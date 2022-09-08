@@ -42,11 +42,9 @@
 
 .header .perfil{
     
-    /* background-color: peru; */
     display: flex;
 }
 .header .menu{
-    /* background-color: aquamarine; */
     display: flex;
     justify-content: center;
     align-items: center;
